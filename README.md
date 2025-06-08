@@ -56,4 +56,5 @@ This tool is for educational and research purposes only. Unauthorized use of thi
 Made by Kushal
 Custom firmware & UI design by Kushal
 Built with love, curiosity, and a little mischief. 😄
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
