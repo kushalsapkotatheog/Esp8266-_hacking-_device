@@ -52,35 +52,33 @@ Includes a full web-based admin panel at `http://192.168.4.1/admin` to modify SS
 
 ## 🛠 How to Use
 
-1. **Flash firmware** using [ESP Web Tools](https://esp.huhn.me/) or Arduino IDE.
+1. **Flash firmware** using [ESP Web Tools](https://esp.huhn.me/) or Arduino IDE.  
 2. ESP will broadcast a Wi-Fi named:  
-   🟡 `Free_World_Link_1_HOUR`
-3. Connect with any device (PC or phone).
+   🟡 `Free_World_Link_1_HOUR`  
+3. Connect with any device (PC or phone).  
 4. Any URL visited will redirect to:  
-   🔴 `http://192.168.4.69` (default — editable)
-![image](https://github.com/user-attachments/assets/d761d7cd-2f3d-4ff4-8389-75fb55318c0a)
+   🔴 `http://192.168.4.69` (default — editable)  
+   <img src="https://github.com/user-attachments/assets/d761d7cd-2f3d-4ff4-8389-75fb55318c0a" alt="Redirect Default" width="300" />
 
-Redirecting
-![image](https://github.com/user-attachments/assets/41631b2e-baf2-43a3-b5a8-d845c4193313)
+**Redirecting**  
+<img src="https://github.com/user-attachments/assets/41631b2e-baf2-43a3-b5a8-d845c4193313" alt="Redirecting" width="300" />
 
-Login
-
-![image](https://github.com/user-attachments/assets/3115bf53-53ac-4b1b-a169-984748138ea3)
-
+**Login**  
+<img src="https://github.com/user-attachments/assets/3115bf53-53ac-4b1b-a169-984748138ea3" alt="Login" width="300" />
 
 5. To manage settings, open:  
-   🔧 `http://192.168.4.1/admin`
-![image](https://github.com/user-attachments/assets/190e4255-4cfa-4cb2-bfa2-75597b85c50c)
+   🔧 `http://192.168.4.1/admin`  
+   <img src="https://github.com/user-attachments/assets/190e4255-4cfa-4cb2-bfa2-75597b85c50c" alt="Admin Panel" width="300" />
 
 ---
 
 ## ✍️ Customize
 
-In the web admin panel you can:
-- Change **Redirect Target** (e.g. `192.168.4.69:8080`)
-- Change **Wi-Fi SSID**
-- Save changes — device reboots and applies immediately
-![image](https://github.com/user-attachments/assets/d0c76235-b328-41dd-99f3-4e578d837cc7)
+In the web admin panel you can:  
+- Change **Redirect Target** (e.g. `192.168.4.69:8080`)  
+- Change **Wi-Fi SSID**  
+- Save changes — device reboots and applies immediately  
+<img src="https://github.com/user-attachments/assets/d0c76235-b328-41dd-99f3-4e578d837cc7" alt="Admin Settings" width="300" />
 
 ---
 
