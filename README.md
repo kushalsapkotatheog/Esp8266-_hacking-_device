@@ -58,6 +58,16 @@ Includes a full web-based admin panel at `http://192.168.4.1/admin` to modify SS
 3. Connect with any device (PC or phone).
 4. Any URL visited will redirect to:  
    🔴 `http://192.168.4.69` (default — editable)
+![image](https://github.com/user-attachments/assets/d761d7cd-2f3d-4ff4-8389-75fb55318c0a)
+
+Redirecting
+![image](https://github.com/user-attachments/assets/41631b2e-baf2-43a3-b5a8-d845c4193313)
+
+Login
+
+![image](https://github.com/user-attachments/assets/3115bf53-53ac-4b1b-a169-984748138ea3)
+
+
 5. To manage settings, open:  
    🔧 `http://192.168.4.1/admin`
 ![image](https://github.com/user-attachments/assets/190e4255-4cfa-4cb2-bfa2-75597b85c50c)
@@ -70,6 +80,7 @@ In the web admin panel you can:
 - Change **Redirect Target** (e.g. `192.168.4.69:8080`)
 - Change **Wi-Fi SSID**
 - Save changes — device reboots and applies immediately
+![image](https://github.com/user-attachments/assets/d0c76235-b328-41dd-99f3-4e578d837cc7)
 
 ---
 
