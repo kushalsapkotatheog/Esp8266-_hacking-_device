@@ -60,6 +60,7 @@ Includes a full web-based admin panel at `http://192.168.4.1/admin` to modify SS
    🔴 `http://192.168.4.69` (default — editable)
 5. To manage settings, open:  
    🔧 `http://192.168.4.1/admin`
+![image](https://github.com/user-attachments/assets/190e4255-4cfa-4cb2-bfa2-75597b85c50c)
 
 ---
 
